@@ -1,1 +1,1 @@
-# laba1_ksis
+# laba2_ksis
